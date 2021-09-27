@@ -1,6 +1,7 @@
 # int53
 
-### Refactoring [dannycoates]'s [int53] lib with number type enum parameter instead of function name with typescript.
+### Refactoring [dannycoates](https://github.com/dannycoates)'s [int53](https://github.com/dannycoates/int53) lib with number type enum parameter instead of function name with typescript.
+
 
 # Int53Type
 
