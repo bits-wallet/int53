@@ -1,4 +1,4 @@
-import { Int53Type, intHighLow, uintHighLow } from "./common";
+import { Int53Type, intHighLow, uintHighLow } from "./util";
 
 export const write = (int53Type: Int53Type, number: number, buffer: Buffer, offset = 0): void => {
   const signed = int53Type.startsWith("Int");

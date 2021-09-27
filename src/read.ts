@@ -1,4 +1,4 @@
-import { Int53Type, toDouble } from "./common";
+import { Int53Type, toDouble } from "./util";
 
 export const read = (int53Type: Int53Type, buffer: Buffer, offset = 0): number => {
   const BE = int53Type.endsWith("BE");
