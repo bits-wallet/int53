@@ -1,6 +1,6 @@
 {
   "name": "@bitmatrix/int53",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "int53",
   "main": "index.js",
   "license": "MIT"
