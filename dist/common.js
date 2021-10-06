@@ -66,4 +66,4 @@ const toDouble = (high, low, signed) => {
     }
 };
 exports.toDouble = toDouble;
-//# sourceMappingURL=util.js.map
+//# sourceMappingURL=common.js.map
