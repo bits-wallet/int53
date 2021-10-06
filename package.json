@@ -1,7 +1,7 @@
 {
-  "name": "int53",
+  "name": "@bitmatrix/int53",
   "version": "1.0.0",
-  "description": "",
+  "description": "int53",
   "main": "index.js",
   "scripts": {
     "build": "tsc",
