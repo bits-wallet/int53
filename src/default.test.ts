@@ -29,6 +29,7 @@ test("int53 testUInt64", () => {
   testUInt64(0xfffffffffffff);
   testUInt64(0x1fffffffffffff);
 
+  // testUInt64(0x1fffffffffffff + 1);
   // errors
   // expect(() => testUInt64(0x1fffffffffffff + 1)).toThrow("number out of range");
   // expect(() => testUInt64(-1)).toThrow("number out of range");
